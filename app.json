@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "nlw-omnistack-mobile",
+    "slug": "nlw-omnistack-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Rocketseat's Next Level Week marathon Proffy App MOBILE module."
+  }
+}
