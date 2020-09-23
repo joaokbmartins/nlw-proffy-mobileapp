@@ -1,4 +1,4 @@
-# Proffy App - Mobile Module (Next-Level-Week)
+# Proffy App - Mobile REST Client (Next-Level-Week)
 
 This is the mobile REST Client for Proffy's App. To fully experece it's funtionalities, the REST API (witch is available at the following link: [nlw-proffy-restapi](https://github.com/joaokbmartins/nlw-proffy-restapi)) is required.
 
